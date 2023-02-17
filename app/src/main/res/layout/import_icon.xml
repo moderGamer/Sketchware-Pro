@@ -14,7 +14,7 @@
         android:importantForAutofill="noExcludeDescendants">
         <EditText
             android:textSize="14.0sp"
-            android:TextColor="#FF000000"
+            android:textColor="#FF000000"
             android:id="@id/ed_input"
             android:layout_width="fill_parent"
             android:layout_height="40.0dip"
